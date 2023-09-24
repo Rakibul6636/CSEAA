@@ -8,9 +8,7 @@
 8. Run `php artisan db:seed` to run seeders, if any.
 9. Run `php artisan serve`
 
+You can find the description of the project here in the pdf file.
 
 
-
-
-
-
+[CSEAA_description.pdf](https://github.com/Rakibul6636/CSEAA/files/12707817/CSEAA_description.pdf)
